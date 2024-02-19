@@ -1,16 +1,7 @@
-# video_post
+# Video_post
 
-A new Flutter project.
+[Download APK](https://drive.google.com/file/d/14URtEWCcrqRVzLYgUUIJ0a_rEzEmn_7V/view?usp=sharing)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+![](https://github.com/kratikpal/video_post/assets/38353446/0f93a0ab-7f49-48e0-ac89-5cdcb89e3247)
+![](https://github.com/kratikpal/video_post/assets/38353446/99047e49-573c-4c3e-a37f-a5ee6053841b)
